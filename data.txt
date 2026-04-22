@@ -1,0 +1,29 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines capable of performing tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning is a subset of AI that allows systems to learn and improve from experience without being explicitly programmed. It uses algorithms and statistical models to analyze data and make predictions.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with many layers. It is particularly effective for tasks such as image recognition, speech processing, and natural language processing.
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret, and generate human language. Applications include chatbots, translation systems, and sentiment analysis.
+
+A vector database is used to store embeddings, which are numerical representations of data. These embeddings allow similarity search, which is essential for retrieval-based AI systems.
+
+FAISS (Facebook AI Similarity Search) is a library used for efficient similarity search and clustering of dense vectors. It is commonly used in RAG systems.
+
+RAG (Retrieval-Augmented Generation) is a technique that combines retrieval of relevant documents with text generation. It improves accuracy by grounding responses in real data.
+
+LangChain is a framework for building applications powered by large language models. It helps manage prompts, memory, chains, and integrations with external data sources.
+
+Groq provides high-performance inference for large language models. It enables fast responses and efficient processing of AI workloads.
+
+Embeddings are numerical representations of text that capture semantic meaning. Similar texts have similar embeddings, which helps in search and recommendation systems.
+
+Chunking is the process of splitting large documents into smaller pieces. This improves retrieval accuracy and ensures better context handling.
+
+Prompt engineering is the practice of designing inputs to guide AI models toward desired outputs. Well-structured prompts improve response quality.
+
+Temperature in language models controls randomness. A lower temperature produces more deterministic responses, while a higher temperature increases creativity.
+
+A chatbot is an AI system that can simulate conversations with users. It can be rule-based or powered by machine learning models.
+
+Context in RAG systems refers to the retrieved documents that are passed to the language model to generate accurate answers.
